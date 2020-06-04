@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f18f9300.chunk.css",
+    "main.js": "/static/js/main.bfd9318b.chunk.js",
+    "main.js.map": "/static/js/main.bfd9318b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b936c8bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b936c8bd.js.map",
+    "static/js/2.183c6726.chunk.js": "/static/js/2.183c6726.chunk.js",
+    "static/js/2.183c6726.chunk.js.map": "/static/js/2.183c6726.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f566995b572c0043905ae187c5a973b.js": "/precache-manifest.6f566995b572c0043905ae187c5a973b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f18f9300.chunk.css.map": "/static/css/main.f18f9300.chunk.css.map",
+    "static/js/2.183c6726.chunk.js.LICENSE.txt": "/static/js/2.183c6726.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/static/media/Logo.6a0179a3.png",
+    "static/media/NeoSansPro-Regular.ttf": "/static/media/NeoSansPro-Regular.baf7b105.ttf",
+    "static/media/ProximaNova-Regular.otf": "/static/media/ProximaNova-Regular.410504d4.otf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9942588a.ttf",
+    "static/media/gamer-store.gif": "/static/media/gamer-store.ece27a17.gif",
+    "static/media/habbits.png": "/static/media/habbits.01876237.png",
+    "static/media/profile with strokes.png": "/static/media/profile with strokes.67619f8d.png",
+    "static/media/social-eyes.gif": "/static/media/social-eyes.6e8fd183.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b936c8bd.js",
+    "static/js/2.183c6726.chunk.js",
+    "static/css/main.f18f9300.chunk.css",
+    "static/js/main.bfd9318b.chunk.js"
+  ]
+}
